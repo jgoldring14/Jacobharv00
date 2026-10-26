@@ -1,4 +1,4 @@
-# Jacob Harvey
+# Jacob Goldring
 
 Full stack engineer. Co-founder and CTO at Vamo.
 Breckenridge, Colorado. Remote for both.
